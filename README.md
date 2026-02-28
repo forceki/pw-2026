@@ -10,6 +10,7 @@ Repo ini berisi kumpulan latihan, contoh kode, dan proyek praktikum yang digunak
 
 * **pertemuan1/** — Materi dan latihan pertemuan 1
 * **pertemuan2/** — Materi dan latihan pertemuan 2
+* **perpustakan/** - Web Praktikum Management Perpustakaan
 * *(folder berikutnya akan ditambahkan sesuai perkembangan materi)*
 
 ---
